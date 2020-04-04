@@ -2,7 +2,7 @@ package comm.jsp.accountbalance;
 import java.util.Scanner;
 public class Account
 {
-      private int id;
+          private int id;
 	  private String accType;
 	  private double balance;
 	  public Account(int id, String accType, double balance) 
